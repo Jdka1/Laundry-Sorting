@@ -7,5 +7,5 @@ Sorting laundry with a robotic arm and CV. All CV and arm controlling processes 
 
 ## Fully Sorted Piles (Dark/Light)
 
-![Image](IMG_6581.jpeg)
+<img src="IMG_6581.jpeg" alt="Image" width="50%">
 
