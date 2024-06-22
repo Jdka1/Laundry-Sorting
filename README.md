@@ -3,7 +3,7 @@ Sorting laundry with a robotic arm and CV. All CV and arm controlling processes 
 
 ### **[Full Video](https://www.youtube.com/watch?v=kl7d4tLsklM)**
 
-![Video Preview](./Robotic_Arm_Sorting_Laundry.gif)
+![Video Preview](./roboticarm.gif)
 
 ## Fully Sorted Piles (Dark/Light)
 
